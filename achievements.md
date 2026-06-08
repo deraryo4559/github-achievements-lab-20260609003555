@@ -19,3 +19,6 @@ Created at 2026-06-08T15:45:50Z UTC.
 
 ## Pair Extraordinaire squash co-author check
 Created at 2026-06-08T15:47:44Z UTC.
+
+## Pair Extraordinaire Deraryo-Mac-mini co-author check
+Created at 2026-06-08T16:00:51Z UTC.
