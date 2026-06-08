@@ -25,3 +25,6 @@ Created at 2026-06-08T16:00:51Z UTC.
 
 ## Pair Extraordinaire deraryo as co-author check
 Created at 2026-06-08T16:04:24Z UTC.
+
+## Pair Extraordinaire Deraryo-Mac-mini co-author check from PR
+Created at 2026-06-09T00:35:55Z UTC.
